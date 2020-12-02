@@ -1,0 +1,12 @@
+C:\Users\MolnarAttila\source\repos\Tobogan\bin\Debug\Tobogan.exe.config
+C:\Users\MolnarAttila\source\repos\Tobogan\bin\Debug\Tobogan.exe
+C:\Users\MolnarAttila\source\repos\Tobogan\bin\Debug\Tobogan.pdb
+C:\Users\MolnarAttila\source\repos\Tobogan\obj\Debug\Tobogan.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\source\repos\Tobogan\obj\Debug\Tobogan.exe
+C:\Users\MolnarAttila\source\repos\Tobogan\obj\Debug\Tobogan.pdb
+C:\Users\MolnarAttila\Desktop\_AOC2020\megoldások\2-CSLINQ-Tobogan\bin\Debug\Tobogan.exe.config
+C:\Users\MolnarAttila\Desktop\_AOC2020\megoldások\2-CSLINQ-Tobogan\bin\Debug\Tobogan.exe
+C:\Users\MolnarAttila\Desktop\_AOC2020\megoldások\2-CSLINQ-Tobogan\bin\Debug\Tobogan.pdb
+C:\Users\MolnarAttila\Desktop\_AOC2020\megoldások\2-CSLINQ-Tobogan\obj\Debug\Tobogan.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\Desktop\_AOC2020\megoldások\2-CSLINQ-Tobogan\obj\Debug\Tobogan.exe
+C:\Users\MolnarAttila\Desktop\_AOC2020\megoldások\2-CSLINQ-Tobogan\obj\Debug\Tobogan.pdb
