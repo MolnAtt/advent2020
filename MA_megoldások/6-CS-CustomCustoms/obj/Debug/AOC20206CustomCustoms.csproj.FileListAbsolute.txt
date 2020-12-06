@@ -1,0 +1,6 @@
+C:\Users\MolnarAttila\source\repos\AOC20206CustomCustoms\bin\Debug\AOC20206CustomCustoms.exe.config
+C:\Users\MolnarAttila\source\repos\AOC20206CustomCustoms\bin\Debug\AOC20206CustomCustoms.exe
+C:\Users\MolnarAttila\source\repos\AOC20206CustomCustoms\bin\Debug\AOC20206CustomCustoms.pdb
+C:\Users\MolnarAttila\source\repos\AOC20206CustomCustoms\obj\Debug\AOC20206CustomCustoms.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\source\repos\AOC20206CustomCustoms\obj\Debug\AOC20206CustomCustoms.exe
+C:\Users\MolnarAttila\source\repos\AOC20206CustomCustoms\obj\Debug\AOC20206CustomCustoms.pdb
