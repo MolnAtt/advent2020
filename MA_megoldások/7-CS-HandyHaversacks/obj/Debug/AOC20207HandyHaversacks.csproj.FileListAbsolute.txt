@@ -1,0 +1,6 @@
+C:\Users\MolnarAttila\source\repos\AOC20207HandyHaversacks\bin\Debug\AOC20207HandyHaversacks.exe.config
+C:\Users\MolnarAttila\source\repos\AOC20207HandyHaversacks\bin\Debug\AOC20207HandyHaversacks.exe
+C:\Users\MolnarAttila\source\repos\AOC20207HandyHaversacks\bin\Debug\AOC20207HandyHaversacks.pdb
+C:\Users\MolnarAttila\source\repos\AOC20207HandyHaversacks\obj\Debug\AOC20207HandyHaversacks.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\source\repos\AOC20207HandyHaversacks\obj\Debug\AOC20207HandyHaversacks.exe
+C:\Users\MolnarAttila\source\repos\AOC20207HandyHaversacks\obj\Debug\AOC20207HandyHaversacks.pdb

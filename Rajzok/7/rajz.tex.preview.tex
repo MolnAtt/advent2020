@@ -2,8 +2,8 @@
 \begin{document}
 \begin{tikzpicture}[bag/.style={ellipse, draw=black},
 ancestor/.style={fill=black!10!white},
-nyil/.style={->, thick, >=stealth}
-]
+nyil/.style={->	, thick, >=stealth},
+el/.style={midway, above, sloped}]
 
 \node[bag,ancestor] (lr) at (1.5,3) {light red};
 \node[bag,ancestor] (bw) at (-3,0.5) {bright white};
@@ -14,19 +14,19 @@ nyil/.style={->, thick, >=stealth}
 \node[bag] (vp) at (-2,-3) {vibrant plum};
 \node[bag] (fb) at (3.5,-4.5) {faded blue};
 \node[bag] (db) at (0,-4.5) {dotted black};
-\draw[nyil]  (lr) edge node[midway, above, sloped]{1}(bw);
-\draw[nyil]  (lr) edge node[midway, above, sloped]{2}(my);
-\draw[nyil]  (dor) edge node[midway, above, sloped]{3}(bw);
-\draw[nyil]  (dor) edge node[midway, above, sloped]{4}(my);
-\draw[nyil]  (bw) edge node[midway, above, sloped]{1}(sg);
-\draw[nyil]  (my) edge node[midway, above, sloped]{2}(sg);
-\draw[nyil]  (my) edge node[midway, above, sloped]{9}(fb);
-\draw[nyil]  (sg) edge node[midway, above, sloped]{1}(dol);
-\draw[nyil]  (sg) edge node[midway, above, sloped]{2}(vp);
-\draw[nyil]  (dol) edge node[midway, above, sloped]{3}(fb);
-\draw[nyil]  (dol) edge node[midway, above, sloped]{4}(db);
-\draw[nyil]  (vp) edge node[midway, above, sloped]{5}(fb);
-\draw[nyil]  (vp) edge node[midway, above, sloped]{6}(db);
+\draw[nyil]  (lr) edge node[el]{1}(bw);
+\draw[nyil]  (lr) edge node[el]{2}(my);
+\draw[nyil]  (dor) edge node[el]{3}(bw);
+\draw[nyil]  (dor) edge node[el]{4}(my);
+\draw[nyil]  (bw) edge node[el]{1}(sg);
+\draw[nyil]  (my) edge node[el]{2}(sg);
+\draw[nyil]  (my) edge node[el]{9}(fb);
+\draw[nyil]  (sg) edge node[el]{1}(dol);
+\draw[nyil]  (sg) edge node[el]{2}(vp);
+\draw[nyil]  (dol) edge node[el]{3}(fb);
+\draw[nyil]  (dol) edge node[el]{4}(db);
+\draw[nyil]  (vp) edge node[el]{5}(fb);
+\draw[nyil]  (vp) edge node[el]{6}(db);
 
 \usetikzlibrary{calc}
 \pgftransformreset
@@ -48,4 +48,16 @@ nyil/.style={->, thick, >=stealth}
 \end{tikzpicture}
 
 \end{document}
-}
+
+r sep=0pt,minimum size=0pt,line width=0pt,text width=0pt,text height=0pt,draw=white] at (current bounding box) {
+\immediate\write\metadatafile{\p1,\p2}
+};
+\immediate\closeout\metadatafile
+\end{tikzpicture}
+
+\end{document}
+
+
+\end{document}
+
+
