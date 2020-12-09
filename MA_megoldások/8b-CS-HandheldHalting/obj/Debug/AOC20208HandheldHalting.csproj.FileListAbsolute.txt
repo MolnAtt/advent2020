@@ -1,0 +1,6 @@
+C:\Users\MolnarAttila\source\repos\AOC20208HandheldHalting\bin\Debug\AOC20208HandheldHalting.exe.config
+C:\Users\MolnarAttila\source\repos\AOC20208HandheldHalting\bin\Debug\AOC20208HandheldHalting.exe
+C:\Users\MolnarAttila\source\repos\AOC20208HandheldHalting\bin\Debug\AOC20208HandheldHalting.pdb
+C:\Users\MolnarAttila\source\repos\AOC20208HandheldHalting\obj\Debug\AOC20208HandheldHalting.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\source\repos\AOC20208HandheldHalting\obj\Debug\AOC20208HandheldHalting.exe
+C:\Users\MolnarAttila\source\repos\AOC20208HandheldHalting\obj\Debug\AOC20208HandheldHalting.pdb
