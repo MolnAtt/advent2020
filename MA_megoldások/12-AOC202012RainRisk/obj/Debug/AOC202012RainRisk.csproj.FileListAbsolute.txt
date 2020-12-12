@@ -1,0 +1,6 @@
+C:\Users\MolnarAttila\source\repos\AOC202012RainRisk\bin\Debug\AOC202012RainRisk.exe.config
+C:\Users\MolnarAttila\source\repos\AOC202012RainRisk\bin\Debug\AOC202012RainRisk.exe
+C:\Users\MolnarAttila\source\repos\AOC202012RainRisk\bin\Debug\AOC202012RainRisk.pdb
+C:\Users\MolnarAttila\source\repos\AOC202012RainRisk\obj\Debug\AOC202012RainRisk.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\source\repos\AOC202012RainRisk\obj\Debug\AOC202012RainRisk.exe
+C:\Users\MolnarAttila\source\repos\AOC202012RainRisk\obj\Debug\AOC202012RainRisk.pdb
