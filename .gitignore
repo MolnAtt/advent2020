@@ -1,0 +1,10 @@
+*.out
+*.lib
+*.pdb
+*.exe
+*.log
+*.db
+*.ipch
+*.tlog
+*.obj
+*.pch
